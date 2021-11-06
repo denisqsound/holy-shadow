@@ -1,0 +1,9 @@
+numpy==1.21.4
+opencv-python==4.5.4.58
+opencv-python-headless==4.5.4.58
+Pillow==8.4.0
+pyparsing==3.0.4
+python-bidi==0.4.2
+python-dateutil==2.8.2
+PyYAML==6.0
+six==1.16.0
